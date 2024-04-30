@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Produkt 1",
+      "price": 150,
+      "category": "Kategorie 1",
+      "description": "Detailní popis produktu 1"
+    },
+    {
+      "id": 2,
+      "name": "Produkt 2",
+      "price": 250,
+      "category": "Kategorie 2",
+      "description": "Detailní popis produktu 2"
+    }
+  ]
+  
